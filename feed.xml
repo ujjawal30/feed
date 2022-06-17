@@ -1,9 +1,9 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" encoding="UTF-8" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <title>Insights to Action</title>
 <link>http://localhost:3000</link>
 <description/>
-<lastBuildDate>Fri, 17 Jun 2022 07:44:37 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jun 2022 11:21:51 GMT</lastBuildDate>
 <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 <generator>https://github.com/jpmonette/feed</generator>
 <image>
