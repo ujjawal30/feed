@@ -3,9 +3,14 @@
 <title>Insights to Action</title>
 <link>http://localhost:3000</link>
 <description/>
-<lastBuildDate>Fri, 17 Jun 2022 07:37:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jun 2022 07:44:37 GMT</lastBuildDate>
 <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 <generator>https://github.com/jpmonette/feed</generator>
+<image>
+<title>Insights to Action</title>
+<url>http://localhost:3000/assets/images/d-logo.png</url>
+<link>http://localhost:3000</link>
+</image>
 <item>
 <title>
 <![CDATA[ Using performance management to elevate workforce experience ]]>
